@@ -15,4 +15,12 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="D:\Projects\Dotnet\panini-meanie\panini-meanie-api\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\Projects\Dotnet\panini-meanie\panini-meanie-api\.editorconfig" />
+  </ItemGroup>
+
 </Project>
